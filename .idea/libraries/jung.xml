@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jung">
+    <CLASSES>
+      <root url="file://E:/Graph Libraries/jung" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://E:/Graph Libraries/jung" recursive="false" />
+  </library>
+</component>

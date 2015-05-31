@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns/graphml"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns/graphml">
+<key id="y" for="node">
+<default>0</default>
+</key>
+<key id="x" for="node">
+<default>0</default>
+</key>
+<key id="weight" for="edge">
+<default>0</default>
+</key>
+<graph edgedefault="directed">
+<node id="N17">
+<data key="y">17.0</data>
+<data key="x">61.0</data>
+</node>
+<node id="N5">
+<data key="y">105.0</data>
+<data key="x">313.0</data>
+</node>
+<node id="N4">
+<data key="y">402.0</data>
+<data key="x">499.0</data>
+</node>
+<node id="N6">
+<data key="y">340.0</data>
+<data key="x">302.0</data>
+</node>
+<node id="N13">
+<data key="y">17.0</data>
+<data key="x">868.0</data>
+</node>
+<node id="N8">
+<data key="y">214.0</data>
+<data key="x">420.0</data>
+</node>
+<node id="N11">
+<data key="y">666.0</data>
+<data key="x">847.0</data>
+</node>
+<node id="N2">
+<data key="y">90.0</data>
+<data key="x">419.0</data>
+</node>
+<node id="N1">
+<data key="y">349.0</data>
+<data key="x">158.0</data>
+</node>
+<node id="N10">
+<data key="y">665.0</data>
+<data key="x">824.0</data>
+</node>
+<node id="N12">
+<data key="y">17.0</data>
+<data key="x">830.0</data>
+</node>
+<node id="N16">
+<data key="y">51.0</data>
+<data key="x">24.0</data>
+</node>
+<node id="N9">
+<data key="y">673.0</data>
+<data key="x">32.0</data>
+</node>
+<node id="N15">
+<data key="y">14.0</data>
+<data key="x">19.0</data>
+</node>
+<node id="N3">
+<data key="y">125.0</data>
+<data key="x">203.0</data>
+</node>
+<node id="N14">
+<data key="y">54.0</data>
+<data key="x">846.0</data>
+</node>
+<node id="N7">
+<data key="y">227.0</data>
+<data key="x">152.0</data>
+</node>
+<node id="N18">
+<data key="y">52.0</data>
+<data key="x">75.0</data>
+</node>
+<edge directed="false" source="N3" target="N4">
+<data key="weight">0.0</data>
+</edge>
+<edge directed="false" source="N1" target="N2">
+<data key="weight">0.0</data>
+</edge>
+<edge directed="false" source="N5" target="N6">
+<data key="weight">0.0</data>
+</edge>
+<edge directed="false" source="N7" target="N8">
+<data key="weight">0.0</data>
+</edge>
+</graph>
+</graphml>

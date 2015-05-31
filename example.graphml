@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns/graphml"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns/graphml">
+<key id="y" for="node">
+<default>0</default>
+</key>
+<key id="x" for="node">
+<default>0</default>
+</key>
+<key id="weight" for="edge">
+<default>0</default>
+</key>
+<graph edgedefault="directed">
+<node id="N11">
+<data key="y">481.0</data>
+<data key="x">480.0</data>
+</node>
+<node id="N8">
+<data key="y">478.0</data>
+<data key="x">125.0</data>
+</node>
+<node id="N12">
+<data key="y">372.0</data>
+<data key="x">623.0</data>
+</node>
+<node id="N14">
+<data key="y">231.0</data>
+<data key="x">116.0</data>
+</node>
+<node id="N10">
+<data key="y">231.0</data>
+<data key="x">471.0</data>
+</node>
+<node id="N13">
+<data key="y">51.0</data>
+<data key="x">564.0</data>
+</node>
+<node id="N9">
+<data key="y">358.0</data>
+<data key="x">300.0</data>
+</node>
+<edge directed="false" source="N12" target="N11">
+<data key="weight">5.0</data>
+</edge>
+<edge directed="false" source="N8" target="N14">
+<data key="weight">4.0</data>
+</edge>
+<edge directed="false" source="N9" target="N10">
+<data key="weight">11.0</data>
+</edge>
+<edge directed="false" source="N14" target="N9">
+<data key="weight">6.0</data>
+</edge>
+<edge directed="false" source="N9" target="N11">
+<data key="weight">8.0</data>
+</edge>
+<edge directed="false" source="N12" target="N13">
+<data key="weight">3.0</data>
+</edge>
+<edge directed="false" source="N9" target="N8">
+<data key="weight">3.0</data>
+</edge>
+<edge directed="false" source="N10" target="N12">
+<data key="weight">10.0</data>
+</edge>
+<edge directed="false" source="N11" target="N8">
+<data key="weight">7.0</data>
+</edge>
+<edge directed="false" source="N10" target="N11">
+<data key="weight">2.0</data>
+</edge>
+<edge directed="false" source="N13" target="N10">
+<data key="weight">2.0</data>
+</edge>
+<edge directed="false" source="N14" target="N10">
+<data key="weight">5.0</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns/graphml"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns/graphml">
+<key id="y" for="node">
+<default>0</default>
+</key>
+<key id="x" for="node">
+<default>0</default>
+</key>
+<key id="weight" for="edge">
+<default>0</default>
+</key>
+<graph edgedefault="directed">
+<node id="N1">
+<data key="y">319.0</data>
+<data key="x">186.0</data>
+</node>
+<node id="N2">
+<data key="y">221.0</data>
+<data key="x">335.0</data>
+</node>
+<edge source="N1" target="N2">
+<data key="weight">0.0</data>
+</edge>
+</graph>
+</graphml>

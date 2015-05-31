@@ -1,0 +1,43 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="thesis:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/thesis_jar</output-path>
+    <root id="archive" name="thesis.jar">
+      <element id="module-output" name="thesis" />
+      <element id="extracted-dir" path="E:/Graph Libraries/vectorgraphics-2.1.1/lib/jdom-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/vectorgraphics-2.1.1/lib/junit-3.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/vectorgraphics-2.1.1/lib/jas-plotter-2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/vectorgraphics-2.1.1/lib/freehep-io-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/vectorgraphics-2.1.1/lib/freehep-xml-2.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/vectorgraphics-2.1.1/lib/freehep-util-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/vectorgraphics-2.1.1/lib/freehep-swing-2.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/vectorgraphics-2.1.1/lib/freehep-export-2.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/vectorgraphics-2.1.1/lib/freehep-graphics2d-2.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/vectorgraphics-2.1.1/lib/freehep-graphicsio-2.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/vectorgraphics-2.1.1/lib/freehep-graphicsio-ps-2.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/vectorgraphics-2.1.1/lib/freehep-graphicsio-emf-2.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/vectorgraphics-2.1.1/lib/freehep-graphicsio-pdf-2.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/vectorgraphics-2.1.1/lib/freehep-graphicsio-svg-2.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/vectorgraphics-2.1.1/lib/freehep-graphicsio-swf-2.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/vectorgraphics-2.1.1/lib/freehep-graphicsio-java-2.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/vectorgraphics-2.1.1/lib/freehep-graphicsio-tests-2.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/vectorgraphics-2.1.1/lib/openide-lookup-1.9-patched-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/jung/colt-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/jung/jung-3d-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/jung/jung-io-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/jung/vecmath-1.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/jung/j3d-core-1.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/jung/jung-api-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/jung/jung-jai-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/jung/stax-api-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/jung/wstx-asl-3.2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/jung/concurrent-1.3.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/jung/jung-samples-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/jung/jung-3d-demos-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/jung/jung-algorithms-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/jung/jung-graph-impl-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/jung/jung-jai-samples-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/jung/collections-generic-4.01.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Graph Libraries/jung/jung-visualization-2.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

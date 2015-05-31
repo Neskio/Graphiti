@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns/graphml"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns/graphml">
+<key id="y" for="node">
+<default>0</default>
+</key>
+<key id="x" for="node">
+<default>0</default>
+</key>
+<key id="weight" for="edge">
+<default>0</default>
+</key>
+<graph edgedefault="directed">
+<node id="N1">
+<data key="y">477.0</data>
+<data key="x">73.0</data>
+</node>
+<node id="N9">
+<data key="y">124.0</data>
+<data key="x">36.0</data>
+</node>
+<node id="N10">
+<data key="y">69.0</data>
+<data key="x">33.0</data>
+</node>
+<node id="N8">
+<data key="y">672.0</data>
+<data key="x">810.0</data>
+</node>
+<node id="N5">
+<data key="y">390.0</data>
+<data key="x">245.0</data>
+</node>
+<node id="N3">
+<data key="y">484.0</data>
+<data key="x">208.0</data>
+</node>
+<node id="N6">
+<data key="y">54.0</data>
+<data key="x">777.0</data>
+</node>
+<node id="N4">
+<data key="y">395.0</data>
+<data key="x">78.0</data>
+</node>
+<node id="N11">
+<data key="y">30.0</data>
+<data key="x">55.0</data>
+</node>
+<node id="N7">
+<data key="y">670.0</data>
+<data key="x">749.0</data>
+</node>
+<node id="N2">
+<data key="y">348.0</data>
+<data key="x">158.0</data>
+</node>
+<node id="N12">
+<data key="y">2.0</data>
+<data key="x">101.0</data>
+</node>
+<edge directed="false" source="N2" target="N3">
+<data key="weight">0.0</data>
+</edge>
+<edge directed="false" source="N1" target="N2">
+<data key="weight">0.0</data>
+</edge>
+<edge directed="false" source="N3" target="N4">
+<data key="weight">0.0</data>
+</edge>
+<edge directed="false" source="N5" target="N1">
+<data key="weight">0.0</data>
+</edge>
+<edge directed="false" source="N4" target="N5">
+<data key="weight">0.0</data>
+</edge>
+</graph>
+</graphml>

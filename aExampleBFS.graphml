@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns/graphml"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns/graphml">
+<key id="y" for="node">
+<default>0</default>
+</key>
+<key id="x" for="node">
+<default>0</default>
+</key>
+<key id="weight" for="edge">
+<default>0</default>
+</key>
+<graph edgedefault="directed">
+<node id="F">
+<data key="y">320.0</data>
+<data key="x">399.0</data>
+</node>
+<node id="A">
+<data key="y">213.0</data>
+<data key="x">139.0</data>
+</node>
+<node id="E">
+<data key="y">231.0</data>
+<data key="x">560.0</data>
+</node>
+<node id="B">
+<data key="y">102.0</data>
+<data key="x">229.0</data>
+</node>
+<node id="H">
+<data key="y">420.0</data>
+<data key="x">561.0</data>
+</node>
+<node id="D">
+<data key="y">97.0</data>
+<data key="x">407.0</data>
+</node>
+<node id="S">
+<data key="y">317.0</data>
+<data key="x">231.0</data>
+</node>
+<node id="G">
+<data key="y">407.0</data>
+<data key="x">315.0</data>
+</node>
+<node id="C">
+<data key="y">223.0</data>
+<data key="x">311.0</data>
+</node>
+<edge directed="false" source="C" target="D">
+<data key="weight">0.0</data>
+</edge>
+<edge directed="false" source="E" target="H">
+<data key="weight">0.0</data>
+</edge>
+<edge directed="false" source="S" target="C">
+<data key="weight">0.0</data>
+</edge>
+<edge directed="false" source="G" target="H">
+<data key="weight">0.0</data>
+</edge>
+<edge directed="false" source="F" target="H">
+<data key="weight">0.0</data>
+</edge>
+<edge directed="false" source="C" target="E">
+<data key="weight">0.0</data>
+</edge>
+<edge directed="false" source="A" target="S">
+<data key="weight">0.0</data>
+</edge>
+<edge directed="false" source="A" target="B">
+<data key="weight">0.0</data>
+</edge>
+<edge directed="false" source="G" target="F">
+<data key="weight">0.0</data>
+</edge>
+<edge directed="false" source="C" target="F">
+<data key="weight">0.0</data>
+</edge>
+<edge directed="false" source="S" target="G">
+<data key="weight">0.0</data>
+</edge>
+</graph>
+</graphml>
